@@ -10,7 +10,7 @@ header {
 
 }
 
-#top h1 {
+#header h1 {
 	background-color: #4aaaa5;
 	margin-left: 100px;
 	margin-right: 1000px;
@@ -22,13 +22,13 @@ header {
 	color: white;
 }
 
-#top ul {
+#header ul {
 	list-style-type: none;
 	float: right;
 	margin-top: -49px;
 }
 
-#top li {
+#header li {
 	display: inline;
 	margin-right: 0px;
 	margin-left: -250px;
@@ -36,9 +36,23 @@ header {
 	
 }
 
+#main-bio {
+	border-style: solid;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
 #top li a {
 	color: #777777;
 	text-decoration: none;
+}
+
+#main-bio h1 {
+	color: #4aaaa5;
+}
+
+#main-bio p {
+	float: right;
 }
 
 
