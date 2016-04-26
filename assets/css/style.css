@@ -1,5 +1,6 @@
 * {
 	box-sizing: border-box;
+
 }
 
 body {
@@ -34,8 +35,9 @@ header {
 	float: left;
 	text-decoration: none;
 	margin-bottom: 29px;
-	margin-left: 700px;
+	margin-left: 840px;
 	margin-top: -49px;
+
 }
 
 #header li {
@@ -52,7 +54,7 @@ header {
 	float: left;
 	border: solid;
 	margin: 36px 37px 43px 135px; 
-	height: 291px;
+	height: 410px;
 	width: 555px;
 	background-color: #ffffff;
 }
@@ -64,12 +66,19 @@ header {
 }
 
 #main-content img {
+	width: 171px;
+	margin-top: 25px;
 	margin-left: 25px;
 	float: left;
 }
 
 #main-content p {
 	float: left;
+}
+
+.container {
+	height: 484px;
+	clear: both;
 }
 
 #sidebar {
@@ -81,10 +90,16 @@ header {
 	width: 230px;
 }
 
+#sidebar h3 {
+	color: #4aaaa5;
+	margin-left: 25px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
 #sidebar ul {
-	margin-right: 25px;
+	margin-top: 23px;
+	margin-left: 35px;
 	padding: 0;
-	margin: 0;
 	text-decoration: none;
 }
 
@@ -92,25 +107,18 @@ header {
 	display: inline;
 }
 
-#sidebar h3 {
-	color: #4aaaa5;
-	margin-left: 25px;
-	font-family: 'Georgia', Times, Times New Roman, serif;
-}
-
-.container {
-	height: 484px;
-	clear: both;
-}
-
-
 footer {
+	height: 70px;
+	margin: 0 auto -155px;
 	clear: both;
 	background-color: #666666;
 
 }
 
 footer p {
+	padding-top: 25px;
+	font-size: xx-small;
+	font color: #777777;
 	text-align: center;
 }
 
