@@ -44,13 +44,14 @@ header {
 }
 
 #header li {
-	padding: 0 23px;
+	margin-left: 5px;
+	padding-left: 5px;
 	display: inline;
 	list-style-type: none;
 }
 
 #header span {
-	margin-left: 50px;
+	margin-left: 10px;
 }
 
 #header a {
