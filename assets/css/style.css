@@ -264,6 +264,8 @@ header {
 	margin-top: -60px;
 	margin-left: 17px;
 	margin-right: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	position: absolute;
 	text-align: center;
 	width: 180px;
@@ -275,6 +277,8 @@ header {
 	color: #ffffff;
 	margin-top: -60px;
 	margin-left: 225px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	position: absolute;
 	text-align: center;
 	width: 180px;
