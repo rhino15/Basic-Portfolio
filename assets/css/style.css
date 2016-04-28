@@ -222,3 +222,38 @@ header {
 	color: #ffffff;
 }
 
+#portfolio {
+	float: left;
+	margin: 20px 25px 0px 70px;
+	border: 1px solid #dddddd; 
+	height: 520px;
+	width: 425px;
+	background-color: #ffffff;
+}
+
+.row {
+	display: inline;
+	position: relative;
+	width: 180px;
+}
+
+.left_pic {
+	color: #ffffff;
+	margin-top: -50px;
+	position: absolute;
+	text-align: center;
+	width: 180px;
+	height: 40px;
+	background-color: #4aaaa5;
+}
+
+.right_pic {
+	color: #ffffff;
+	margin-top: -50px;
+	margin-left: 184px;
+	position: absolute;
+	text-align: center;
+	width: 180px;
+	height: 40px;
+	background-color: #4aaaa5; 
+}
